@@ -1,6 +1,6 @@
 # Clash of Clans Bot
-A Free/Open Sourced Clash of Clans bot - https://the.bytecode.club
+A Free/Open Sourced Clash of Clans bot - https://gamebot.org
 
-How to Start Bot - https://the.bytecode.club/showthread.php?tid=298
+How to Start Bot - https://gamebot.org/forums/showthread.php?tid=4&pid=6#pid6
 
-How to Report Bug/Help - https://the.bytecode.club/showthread.php?tid=228
+How to Report Bug/Help - https://gamebot.org/forums/showthread.php?tid=5
