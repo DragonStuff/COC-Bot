@@ -1,6 +1,8 @@
 # Clash of Clans Bot
-A Free/Open Sourced Clash of Clans bot - https://gamebot.org
+Since everyone has split into different bots, they have made their own sources from this one. 
+I will be updating this bot for my personal use, but everyone is free to follow the progress if they want to.
 
-How to Start Bot - https://gamebot.org/forums/showthread.php?tid=4&pid=6#pid6
+I am one of the founders of the open-source COC-Bot and I've taken a long break from programming with the others.
+I will be working on this source specifically alone, but there are other more progressed bots now.
 
-How to Report Bug/Help - https://gamebot.org/forums/showthread.php?tid=5
+I personally support http://gamebot.org/ as they are open-source and all members of their forum have same privileges to the bot and it's releases.
